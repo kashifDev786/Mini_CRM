@@ -1,10 +1,24 @@
 # mini_crm
 
-A new Flutter project.
+CRM Flutter project.
 
-## Getting Started
+## Setup instruction
 
-This project is a starting point for a Flutter application.
+This project on Flutter version 3.32.0
+Clone this project from git and after cloned just run command "flutter pub get" in terminal
+
+I have integrated firebase with my account 
+
+## Architecture Summary
+
+This project follow bloc pattern architecture.
+This project seprate UI, and logic and data model
+
+
+
+## ScreenShot
+![](C:\Users\mohammad.kashif\Downloads\WhatsApp%20Image%202025-06-06%20at%2016.56.33.jpeg)
+
 
 A few resources to get you started if this is your first Flutter project:
 
