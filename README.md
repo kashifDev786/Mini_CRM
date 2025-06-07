@@ -18,7 +18,12 @@ This project seprate UI, and logic and data model
 
 ## ScreenShot
 
+# Splash Screen
+![WhatsApp Image 2025-06-06 at 16.56.40.jpeg](images/WhatsApp%20Image%202025-06-06%20at%2016.56.40.jpeg)
+# Login Screen
 ![WhatsApp Image 2025-06-06 at 16.56.33.jpeg](images/WhatsApp%20Image%202025-06-06%20at%2016.56.33.jpeg)
+# Dashboard Screen(Light Theme)
+![WhatsApp Image 2025-06-06 at 16.56.36 (1).jpeg](images/WhatsApp%20Image%202025-06-06%20at%2016.56.36%20%281%29.jpeg)
 
 A few resources to get you started if this is your first Flutter project:
 
