@@ -17,8 +17,8 @@ This project seprate UI, and logic and data model
 
 
 ## ScreenShot
-![](C:\Users\mohammad.kashif\Downloads\WhatsApp%20Image%202025-06-06%20at%2016.56.33.jpeg)
 
+![WhatsApp Image 2025-06-06 at 16.56.33.jpeg](images/WhatsApp%20Image%202025-06-06%20at%2016.56.33.jpeg)
 
 A few resources to get you started if this is your first Flutter project:
 
