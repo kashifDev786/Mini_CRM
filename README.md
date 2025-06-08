@@ -1,24 +1,36 @@
-`# mini_crm
-
-CRM Flutter project.
+# CRM Flutter project.
 
 # Setup instruction
+### Clone the Repository
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+### Install Dependencies
+flutter pub get
+### Generate Hive Adapters (if using build_runner)
+flutter pub run build_runner build --delete-conflicting-outputs
+### Run the App
+flutter run
+### Requirements
+Flutter SDK (3.32.1),
 
-This project on Flutter version 3.32.0
-Clone this project from git and after cloned just run command "flutter pub get" in terminal
+Dart SDK,
 
-I have integrated firebase with my account 
+Android Studio (version 2024.3.2),
+
+Hive and BLoC dependencies configured
+
 
 # Architecture Summary
 
-This project follow bloc pattern architecture.
-This project seprate UI, and logic and data model
-
+I am follow the clean architecture with Layers: Presentation → Business Logic → Data
+### Presentation
+    In Presentation Layer declare List of screen
+### Business logic
+    In Business Logic menioned Bloc Files
+### Data    
+    In Data use model of data 
 
 # ScreenShot
-
-
-## Splash Screen
 <h3>📸 App Screenshots</h3>
 <table>
   <tr>
@@ -61,13 +73,8 @@ This project seprate UI, and logic and data model
   </tr>
 </table>
 
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-`
+# Demo credentials
+#### Email
+test@gmail.com
+#### Password
+123456
