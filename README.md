@@ -18,11 +18,20 @@ This project seprate UI, and logic and data model
 # ScreenShot
 
 
-# Splash Screen
+## Splash Screen
+<h3>📸 App Screenshots</h3>
 
-##
-<img src="images\WhatsApp%20Image%202025-06-06%20at%2016.56.40.jpeg" width="200"/>
-<img src="images\WhatsApp Image 2025-06-06 at 16.56.33.jpeg" width="200"/>
+<table>
+  <tr>
+    <td><img src="images/splash.jpeg" width="200"/></td>
+    <td><img src="images/login.jpeg" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="images/light_dashboard.jpeg" width="200"/></td>
+    <td><img src="images/dark_dashboard.jpeg.png" width="200"/></td>
+  </tr>
+</table>
+
 
 A few resources to get you started if this is your first Flutter project:
 
