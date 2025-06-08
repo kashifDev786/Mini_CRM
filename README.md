@@ -74,8 +74,16 @@ I am follow the clean architecture with Layers: Presentation → Business Logic 
   </tr>
 </table>
 
+# Environment Notes
+If you plan to replace Hive with an API later:
+
+All data access is abstracted in the repositories/ folder.
+
+Swap Hive logic with REST API calls without touching BLoC or UI.
+
 # Demo credentials
 #### Email
 test@gmail.com
 #### Password
 123456
+
