@@ -23,7 +23,7 @@ This project seprate UI, and logic and data model
 <table>
   <tr>
     <td align="center">
-    <strong>SplashScreen</strong>
+    <strong>Splash Screen</strong>
     <img src="images/splash.jpeg" width="200"/></td>
     <td align="center">
     <strong>Login</strong>
@@ -31,12 +31,17 @@ This project seprate UI, and logic and data model
     <td align="center">
     <strong>Light Mode Dashboard</strong>
     <img src="images/light_dashboard.jpeg" width="200"/></td>
+  </tr>
+  <tr>
     <td align="center">
     <strong>Dark Mode Dashboard</strong>
     <img src="images/dark_dashboard.jpeg" width="200"/></td>
-  </tr>
-  <tr>
-    
+    <td align="center">
+    <strong>Lead Screen</strong>
+    <img src="images/leads_list.jpeg" width="200"/></td>
+    <td align="center">
+    <strong>Add leads</strong>
+    <img src="images/add_lead.jpeg" width="200"/></td>
   </tr>
 </table>
 
