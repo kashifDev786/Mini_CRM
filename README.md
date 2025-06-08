@@ -79,5 +79,3 @@ I am follow the clean architecture with Layers: Presentation → Business Logic 
 test@gmail.com
 #### Password
 123456
-
-[app-release.apk](build/app/outputs/flutter-apk/app-release.apk)
