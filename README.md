@@ -3,6 +3,7 @@
 # Setup instruction
 ### Clone the Repository
 git clone https://github.com/kashifDev786/Mini_CRM.git
+
 cd your-repo-name
 ### Install Dependencies
 flutter pub get
