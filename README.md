@@ -25,10 +25,10 @@ This project seprate UI, and logic and data model
   <tr>
     <td><img src="images/splash.jpeg" width="200"/></td>
     <td><img src="images/login.jpeg" width="200"/></td>
+    <td><img src="images/light_dashboard.jpeg" width="200"/></td>
   </tr>
   <tr>
-    <td><img src="images/light_dashboard.jpeg" width="200"/></td>
-    <td><img src="images/dark_dashboard.jpeg.png" width="200"/></td>
+    <td><img src="images/dark_dashboard.jpeg" width="200"/></td>
   </tr>
 </table>
 
