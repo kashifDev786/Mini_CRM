@@ -23,7 +23,7 @@ This project seprate UI, and logic and data model
 <table>
   <tr>
     <td align="center">
-    <strong>Splash Screen</strong>
+    <strong>SplashScreen</strong>
     <img src="images/splash.jpeg" width="200"/></td>
     <td align="center">
     <strong>Login</strong>
