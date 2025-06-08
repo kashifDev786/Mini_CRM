@@ -43,6 +43,22 @@ This project seprate UI, and logic and data model
     <strong>Add leads</strong>
     <img src="images/add_lead.jpeg" width="200"/></td>
   </tr>
+   <tr>
+    <td align="center">
+    <strong>Edit Leads</strong>
+    <img src="images/edit_lead.jpeg" width="200"/></td>
+    <td align="center">
+    <strong>Contact Screen</strong>
+    <img src="images/contact_list.jpeg" width="200"/></td>
+    <td align="center">
+    <strong>Add Contacts</strong>
+    <img src="images/add_contact.jpeg" width="200"/></td>
+  </tr>
+  <tr>
+    <td align="center">
+    <strong>Edit Contact</strong>
+    <img src="images/edit_contact.jpeg" width="200"/></td>
+  </tr>
 </table>
 
 
