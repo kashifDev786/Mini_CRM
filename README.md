@@ -20,13 +20,20 @@ This project seprate UI, and logic and data model
 
 ## Splash Screen
 <h3>📸 App Screenshots</h3>
-
 <table>
   <tr>
-    <td><img src="images/splash.jpeg" width="200"/></td>
-    <td><img src="images/login.jpeg" width="200"/></td>
-    <td><img src="images/light_dashboard.jpeg" width="200"/></td>
-    <td><img src="images/dark_dashboard.jpeg" width="200"/></td>
+    <td align="center">
+    <strong>Splash Screen</strong>
+    <img src="images/splash.jpeg" width="200"/></td>
+    <td align="center">
+    <strong>Login</strong>
+    <img src="images/login.jpeg" width="200"/></td>
+    <td align="center">
+    <strong>Light Mode Dashboard</strong>
+    <img src="images/light_dashboard.jpeg" width="200"/></td>
+    <td align="center">
+    <strong>Dark Mode Dashboard</strong>
+    <img src="images/dark_dashboard.jpeg" width="200"/></td>
   </tr>
   <tr>
     
